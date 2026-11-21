@@ -1,0 +1,8 @@
+# Build
+/target/
+
+# Downloads gerados (vídeo muxado, ~100+ MB)
+*.mp4
+
+# Ambiente
+/.cargo/
